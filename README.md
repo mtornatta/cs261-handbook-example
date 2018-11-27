@@ -1,6 +1,6 @@
 # My Data Structures Handbook
 
-######by Michael Tornatta
+#####by Michael Tornatta
 
 ##Introduction
 
