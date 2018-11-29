@@ -1,6 +1,6 @@
 # Dictionaries
 
-A dictionary is a unordered and indexed structure. It stores data which is mapped to a key through the use of a hashing function.
+A dictionary is a unordered and indexed structure. It stores data which is mapped to a key.
 
 # In Memory
 
@@ -8,7 +8,7 @@ In memory, a dictionary looks like this:
 
 ![set image](images/hashtable.jpg)
 
-Dictionaries are implemented through the use of a hash table. Keys are hashed to get to the location of the corresponding data.
+Dictionaries can be implemented through the use of a hash table. Keys are hashed to get to the location of the corresponding data.
 
 # Operations
 
@@ -21,7 +21,7 @@ Dictionaries are implemented through the use of a hash table. Keys are hashed to
 
 Dictionaries are especially helpful when cataloguing or when needing to know if a piece of data belongs to a data set.
 
-If data is needing to be manipulated or ordered in a certain way, dictionaries may not be the best match.
+If data is needing to be manipulated or ordered in a certain way, dictionaries may not be the best match. They also aren't helpful in situations where data is not easily mapped to a key.
 
 # Example
 
