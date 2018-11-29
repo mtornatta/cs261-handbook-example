@@ -8,7 +8,7 @@ In memory, a dictionary looks like this:
 
 ![set image](images/hashtable.jpg)
 
-Dictionaries can be implemented through the use of a hash table. Keys are hashed to get to the location of the corresponding data.
+Dictionaries can be implemented through the use of a hash table represented here as some arrays. Keys are hashed to get to the location of the corresponding data.
 
 # Operations
 

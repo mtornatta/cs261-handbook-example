@@ -8,7 +8,7 @@ In memory, a hash table looks like this:
 
 ![set image](images/hashtable.jpg)
 
-A hash table like this, implemented with an array, will start out with a set capacity or number of "slots" in which it can hash data to. The structure also keeps track of keys which map to a corresponding piece of data using a hash funciton.
+A hash table like this, implemented with arrays, will start out with a set capacity or number of "slots" in which it can hash data to. The structure also keeps track of keys which map to a corresponding piece of data using a hash funciton.
 
 # Operations
 
