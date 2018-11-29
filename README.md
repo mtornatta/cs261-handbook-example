@@ -17,13 +17,13 @@ The purpose of this handbook is to summarize what I have learned in cs261 and de
 * [Stack](stack.md)
 * [Queue](queue.md)
 * [Deque](deque.md)
-* [Priority Queue](priority_queue.md)
 * [Hash Table](hash_table.md)
 
 
 [**Trees Overview**](trees_overview.md)
 * [Binary Search Tree](bst.md)
 * [Binary Heap](heap.md)
+* [Priority Queue](priority_queue.md)
 * [Graphs](graphs.md)
 
 (c) Michael Tornatta. All rights reserved.
