@@ -31,6 +31,6 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
-[Return to Front Page](README.md)
+[Prev](priority_queue.md) | [Return to Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.

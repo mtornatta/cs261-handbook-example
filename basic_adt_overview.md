@@ -6,4 +6,6 @@ ADTs have some basic structural properties. Some important ones are whether a st
 
 [Next](list.md)
 
+[Front Page](README.md)
+
 (c) 2018 Michael Tornatta. All rights reserved.

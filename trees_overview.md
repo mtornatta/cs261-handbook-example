@@ -1,7 +1,9 @@
-# Undirected Trees
+# Trees
 
 An overview
 
-[Next](bst.md)
+[Prev](hash_table.md) | [Next](bst.md)
+
+[Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.

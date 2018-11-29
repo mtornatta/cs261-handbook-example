@@ -31,6 +31,8 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
-[Next](heap.md)
+[Prev](trees_overview.md) | [Next](heap.md)
+
+[Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.

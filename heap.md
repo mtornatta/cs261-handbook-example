@@ -31,6 +31,8 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
-[Next](priority_queue.md)
+[Prev](bst.md) | [Next](priority_queue.md)
+
+[Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.

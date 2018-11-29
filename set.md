@@ -31,6 +31,8 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
-[Next](tuple.md)
+[Prev](list.md) | [Next](tuple.md)
+
+[Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.

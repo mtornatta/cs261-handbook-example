@@ -31,6 +31,8 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
-[Next](trees_overview.md)
+[Prev](deque.md) | [Next](trees_overview.md)
+
+[Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.

@@ -30,6 +30,8 @@ Lists run into some problems when you're working with enormous pieces of data an
 
 ```
 
-[Next](set.md)
+[Prev](basic_adt_overview.md) | [Next](set.md)
+
+[Front Page](README.md)
 
 (c) 2018 Michael Tornatta. All rights reserved.
