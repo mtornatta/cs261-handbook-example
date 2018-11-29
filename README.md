@@ -21,7 +21,7 @@ The purpose of this handbook is to summarize what I have learned in cs261 and de
 
 [**Trees Overview**](trees_overview.md)
 * [Binary Search Tree](bst.md)
-* [Binary Heap](heap.md)
+* [Heaps](heap.md)
 * [Priority Queue](priority_queue.md)
 * [Graphs](graphs.md)
 
