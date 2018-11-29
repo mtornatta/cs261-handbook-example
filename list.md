@@ -6,9 +6,9 @@ A **List** is a linear and mutable structure and is the python specific implemen
 
 In memory, a list will look like this:
 
-picture
+![array image](images/array.jpg)
 
-A list in python will hold a collection of references to information. These references have a memory address associated with them as well as an index to keep track of their position within the list.
+A list/array structure contains pieces of data which are stored at a memory address (note that all of the array's assigned memory addresses have some sort of order to them) and are accessed by an index which references the data.
 
 # Operations
 
@@ -26,7 +26,15 @@ Lists run into some problems when you're working with enormous pieces of data an
 # Example
 
 ```
+#create a list/array
+test_list = [1,24,55,69]
 
+#set a value at an index
+test_list[3] = [6]
+#the value stored at index 3 has now been set from 69 to 6
+
+#appending will add an item to the end of the list
+test_list.append(27)
 
 ```
 
