@@ -1,34 +1,41 @@
 # Dictionaries
 
-A \[widget\] is \[describe in very simple terms\].
+A dictionary is a unordered and indexed structure. It stores data which is mapped to a key through the use of a hashing function.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a dictionary looks like this:
 
-\[sketch or diagram\]
+![set image](images/hashtable.jpg)
 
-\[description of diagram\]
+Dictionaries are implemented through the use of a hash table. Keys are hashed to get to the location of the corresponding data.
 
 # Operations
 
-A \[widget\] supports the following operations:
-
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* **Search:** Looks for a piece of data within a dictionary. **O(1)**: a dictionary can check if it contains an item through the use of hashing. Since that's just performing an operation, searching works in constant time.
+* **Get:** Gets data stored in the dictionary through use of a key. **O(1)**: data is gotten through the use of hashing. Again, since hashing is just performing an operation, get performs in constant time.
+* **Set:** Sets the value of a piece of data at the indexed mapped to a key. **O(1)**: a dictionary will use hashing to get to the data to set. Again, hashing is an operation so setting will run at constant time.
+* **Delete:** Removes a piece of data at index mapped to a key. **O(1)**: deleting will also run at constant time since the item to delete can also be found through hashing.
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+Dictionaries are especially helpful when cataloguing or when needing to know if a piece of data belongs to a data set.
 
-It is not as good as \[what] \[why\].
+If data is needing to be manipulated or ordered in a certain way, dictionaries may not be the best match.
 
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+#creating a dictionary with values and keys
+test_dictionary = {12345:"terrible password", 3154645:"less terrible password"}
+
+#add an item with key
+test_dictionary[402138] = "getting better"
+
+#access item
+item = test_dictionary[12345]
+#item is now "terrible password"
+
 ```
 
 [Prev](tuple.md) | [Next](linked_list.md)

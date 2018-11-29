@@ -4,9 +4,9 @@ A \[widget\] is \[describe in very simple terms\].
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a queue looks like this:
 
-\[sketch or diagram\]
+![set image](images/queue.jpg)
 
 \[description of diagram\]
 
