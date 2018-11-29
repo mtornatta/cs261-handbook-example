@@ -1,34 +1,36 @@
 # Tuples
 
-A \[widget\] is \[describe in very simple terms\].
+A tuple is an ordered and immutable structure. It's very similar to a list, it just cannot be changed.
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a tuple looks like this:
 
-\[sketch or diagram\]
+![set image](images/array.jpg)
 
-\[description of diagram\]
+A tuple is stored as an array in memory. The limitations come in how you can interact with the structure.
 
 # Operations
 
-A \[widget\] supports the following operations:
-
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+* **Access:** Gets data stored at a specified position. **O(1)**: a tuple is ordered and therefore keeps track of where data was entered within it. All it needs to do is perform a calculation to jump to the correct index.
+* **Search:** Looks for a piece of data within a tuple. **O(n)**: a tuple does not know the data contained at each index so it will have to search itself entirely to find a specific value. This means the search has the potential take longer and longer the larger the tuple is.
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A tuple is useful if you need a collection of data that you never want to have changed. They can be use to store dictionary keys as their values will never change.
 
-It is not as good as \[what] \[why\].
+A tuple, like a set, is fairly limited in its applications and is really only useful for very specific purposes.
 
 # Example
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
+#create a tuple
+test_tuple = ("cat", "dog", "snake")
+
+#access a tuple element by index
+item = test_tuple[1]
+#item is now "dog"
+
 ```
 
 [Prev](set.md) | [Next](dictionary.md)
