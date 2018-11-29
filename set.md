@@ -31,4 +31,6 @@ or
 a program that doesn't use the structure, and then a version that does
 ```
 
+[Next](tuple.md)
+
 (c) 2018 Michael Tornatta. All rights reserved.
