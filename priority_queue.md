@@ -17,9 +17,9 @@ One way of implementing a priority queue is with a heap, which has a structure t
 
 # Use Cases
 
-An \[widget\] is useful \[when\] \[why\].
+A priority queue has many applications, an important one is determining priority of connections to a network.
 
-It is not as good as \[what] \[why\].
+Priority queues, like heaps, are limited in their applications and give up capabilities like random access to gain the capability of quick access to the highest priority element.
 
 # Example
 
