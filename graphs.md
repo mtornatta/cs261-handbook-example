@@ -1,6 +1,6 @@
 # Graphs
 
-A graph is type of non-linear data structure which can be either directed or undirected. Graphs are comprised of nodes also known as **vertices** and are connected by **edges** which can have **weights** to them.
+A graph is type of non-linear data structure which can be either directed or undirected. Graphs are comprised of nodes also known as **vertices** and are connected by **edges** which can have **weights** to them. Graphs can also be **cyclic** or **acyclic**. If a graph is cyclic, that means it contains a loop of connected vertices somewhere in it. If it is acyclic, it does not. A tree is an example of an acyclic graph structure.
 
 # In Memory
 
